@@ -2,13 +2,13 @@
     "name": "Ford Mustang Page",
     "short_name": "Mustang",
     "description": "Ford Mustang Page",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "browser",
     "background_color": "#f2f2f2",
     "theme_color": "#da4b4b",
     "icons": [
       {
-        "src": "vehicle_icon.png",
+        "src": "./vehicle_icon.png",
         "type": "image/png",
         "sizes": "512x512"
       }
